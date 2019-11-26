@@ -5,4 +5,4 @@ This repository contains projects that I have created in order to support my res
 
 <h3> Brief description of projects: </h3>
     1. GeneSeq: A python script using pandas to do pre-processing of genetic sequences
-    2. 
+    2. BaseBall:
