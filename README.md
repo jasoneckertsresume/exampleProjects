@@ -3,3 +3,4 @@ Jason Eckert(https://www.linkedin.com/in/jason-eckert-aa5a9563/)'s resume reposi
 
 This repository contains projects that I have created in order to support my resume. 
 
+<bold> Brief description of projects: </bold>
