@@ -3,4 +3,6 @@ Jason Eckert(https://www.linkedin.com/in/jason-eckert-aa5a9563/)'s resume reposi
 
 This repository contains projects that I have created in order to support my resume. 
 
-<bold> Brief description of projects: </bold>
+**Brief description of projects:**
+    1. GeneSeq: A python script using pandas to do pre-processing of genetic sequences
+    2. 
